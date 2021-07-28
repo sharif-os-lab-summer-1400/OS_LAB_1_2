@@ -29,6 +29,7 @@ Student No. of member 2: `97101286`
     1. [x] `![image](https://user-images.githubusercontent.com/45389577/127389186-4e000911-f51c-4587-bca0-2a7f84d41f1d.png)`
     1. [x] `![image](https://user-images.githubusercontent.com/45389577/127389380-6150d920-c571-4a5e-a5c7-c070842c3d95.png)`
     1. [x] `![image](https://user-images.githubusercontent.com/45389577/127389735-8a682520-fefa-44bf-894b-004d01744c64.png)`
+    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127399717-8a5e5dc9-6a4c-4494-a9a5-29bd58715811.png)`
 
 ### Section 1.3.2
 
