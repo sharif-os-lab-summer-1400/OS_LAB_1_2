@@ -7,23 +7,23 @@ assignees: mhaghighat20
 
 ---
 
-Team Name: `[FILL HERE]`
+Team Name: `97110285-97101286`
 
-Student Name of member 1: `[FILL HERE]`
-Student No. of member 1: `[FILL HERE]`
+Student Name of member 1: `Mohammadreza Abdi`
+Student No. of member 1: `97110285`
 
-Student Name of member 2: `[FILL HERE]`
-Student No. of member 2: `[FILL HERE]`
+Student Name of member 2: `Alireza Ilami`
+Student No. of member 2: `97101286`
 
-- [ ] Read Session Contents.
+- [x] Read Session Contents.
 
 ### Section 1.3.1
-- [ ] Choose one of Virtual Machine Softwares, such as VirtualBox, VMware, ...
-    1. [ ] `[FILL HERE with Virtual Machine Software you choosed]`
+- [x] Choose one of Virtual Machine Softwares, such as VirtualBox, VMware, ...
+    1. [x] `VMware workstation pro 16.1.2`
 - [ ] Install Debian on Virtual Machine, add three screenshots from install process
-    1. [ ] `[FILL HERE with image 1]`
-    1. [ ] `[FILL HERE with image 2]`
-    1. [ ] `[FILL HERE with image 3]`
+    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127378438-d7e9c3e7-457e-4bd8-a1f2-6d21b3f74d3a.png)`
+    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127379061-6b92bc5b-8ae8-4fdb-a184-61bafa41f2c3.png)`
+    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127379808-9e52d86e-8813-42d7-a401-a593be4577d8.png)`
 
 ### Section 1.3.2
 
