@@ -24,6 +24,8 @@ Student No. of member 2: `97101286`
     1. [x] `![image](https://user-images.githubusercontent.com/45341111/127378438-d7e9c3e7-457e-4bd8-a1f2-6d21b3f74d3a.png)`
     1. [x] `![image](https://user-images.githubusercontent.com/45341111/127379061-6b92bc5b-8ae8-4fdb-a184-61bafa41f2c3.png)`
     1. [x] `![image](https://user-images.githubusercontent.com/45341111/127379808-9e52d86e-8813-42d7-a401-a593be4577d8.png)`
+    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127387692-4214eb71-0de3-46d6-a94e-46a2c9e3028d.png)`
+    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127387800-68e8d1a9-0910-4a7d-b4b0-3598dc2d5b28.png)`
 
 ### Section 1.3.2
 
