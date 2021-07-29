@@ -23,14 +23,16 @@ Student No. of member 2: `97101286`
 - [x] ![image](https://user-images.githubusercontent.com/45389577/127537245-d44b181c-4c68-4b1f-a7ae-e19dba275eab.png)
 - [x] ![image](https://user-images.githubusercontent.com/45389577/127537284-93257f2f-f1bb-49b7-b3a7-2ab82684aebe.png)
 
-    <div dir="rtl">
+
 ### Section 2.3.2
-- [ ] `![image](https://user-images.githubusercontent.com/45389577/127544542-d15ca902-cc6d-424c-8e3b-732a9a6ca32a.png)`
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127544542-d15ca902-cc6d-424c-8e3b-732a9a6ca32a.png)
+
+<div dir="rtl">
 - [ ] `این یعنی که دایرکتوری با موفقیت ساخته شد و خروجی سیس کال هم برابر با 0 بود که این نشان میدهد عملیات با موفقیت انجام شده است.`
 - [ ] `برای استفاده از دستور mkdir در syscall، باید عدد 39 را که شماره دستور است وارد کنیم یا از نام دستور که در define تعریف شده است، خود NR_mkdir را بیاوریم`
 - [ ] `ورودی و خروجی syscall از نوع Long اس. خروجی اگر 0 باشد یعنی موفقیت. اگر -1 باشد یعنی error. و اعداد دیگر، error number هستند.`
+</div>
 
-    </div>
 ### Section 2.3.3
 - [ ] `[FILL HERE with image of testsyscall2.cpp code]`
 - [ ] `[FILL HERE with image of testsyscall2 running]`
