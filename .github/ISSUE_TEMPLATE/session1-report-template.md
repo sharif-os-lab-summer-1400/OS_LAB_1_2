@@ -36,7 +36,7 @@ Student No. of member 2: `97101286`
 - [ ] Do 13 subtasks from 1 to 13 and add screenshots of each:
     1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127463915-f3920d83-13b4-49dd-97b2-9e455abd9057.png)
     1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127463459-55b9226a-2bbb-470c-a518-0f44c37a66ef.png)
-    1. [ ] `[FILL HERE with screen capture of subtask 3]`
+    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127465717-d4e7b16d-802d-4b16-8847-af1ada1c2e61.png)
     1. [ ] `[FILL HERE with screen capture of subtask 4]`
     1. [ ] `[FILL HERE with screen capture of subtask 5]`
     1. [ ] `[FILL HERE with screen capture of subtask 6]`
