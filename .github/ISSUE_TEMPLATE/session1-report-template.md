@@ -70,12 +70,29 @@ Student No. of member 2: `97101286`
 ### Section 1.4.1
 
 - [ ] Get kernel with apt-get
-    - [ ] `[FILL HERE with screen capture of subtask 1]`
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475076-7bace6d1-7ea3-429c-936f-81268f6ffd0e.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475132-858bde02-b79b-4daf-b54d-235edc5986fd.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475194-62f4c4e4-d8e2-48e2-8f09-ff19be9ae970.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475257-a740150c-831d-47c2-a8d4-1087ac78a53c.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475309-754f36e5-47a9-4a9e-9c47-96c529786c9f.png)
+
 - [ ] Get tools for compiling kernel
-    - [ ] `[FILL HERE with screen capture of subtask 2]`
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475499-cb9fbfb7-71ed-413c-9673-748c52340b22.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475551-c03e5dc9-4f30-471e-81d8-450299c7bca4.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475614-1f54747e-fc88-4670-9d43-ef2010283f6e.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475769-6730bd8f-f943-49f6-b2d2-8c0465acd39c.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475808-c289fd99-b378-4ab6-9da4-434291591996.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475834-7ade5018-b04b-4d21-baf0-14c1a97e62ab.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475866-76aa11c8-d19e-48c0-8487-fe6f4a515c00.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475887-25cc8ab6-0d13-4306-9192-342273b1ac83.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127475962-76c79c06-a891-4dee-bbd3-f146c2709f4d.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127476049-cbc6ace1-cae3-4a13-b07c-e9dc2c92e841.png)
+
 - [ ] Do subtask 3
-    - [ ] `[FILL HERE with screen capture of subtask 3]`
-   
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127476804-d3506668-dffb-43d0-ba40-ccf1eab1aa75.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127476859-9165d9ca-1676-4080-9e4f-7c4719162284.png)
+    - [ ] ![image](https://user-images.githubusercontent.com/45341111/127476885-b8fbe69f-df69-44d3-9851-d7f4d2ad8d47.png)
+  
 
 ### Section 1.4.2
 
