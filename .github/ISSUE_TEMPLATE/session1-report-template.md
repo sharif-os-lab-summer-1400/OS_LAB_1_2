@@ -34,14 +34,14 @@ Student No. of member 2: `97101286`
 ### Section 1.3.2
 
 - [ ] Do 13 subtasks from 1 to 13 and add screenshots of each:
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127463915-f3920d83-13b4-49dd-97b2-9e455abd9057.png)
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127463459-55b9226a-2bbb-470c-a518-0f44c37a66ef.png)
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127466615-5450f92b-6440-4a4b-9c4e-84a6b65e169b.png)
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127466042-0cc41e9e-2e1d-4457-8add-99c1b5b340f9.png)
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127466246-00f33c56-575b-4ba3-b3b1-779399d2d9b1.png)
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127466408-209a93ea-a844-4718-9a99-699e356ca721.png)
-    1. [ ] `[FILL HERE with screen capture of subtask 7]`
-    1. [ ] `[FILL HERE with screen capture of subtask 8]`
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127463915-f3920d83-13b4-49dd-97b2-9e455abd9057.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127463459-55b9226a-2bbb-470c-a518-0f44c37a66ef.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127466615-5450f92b-6440-4a4b-9c4e-84a6b65e169b.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127466042-0cc41e9e-2e1d-4457-8add-99c1b5b340f9.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127466246-00f33c56-575b-4ba3-b3b1-779399d2d9b1.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127466408-209a93ea-a844-4718-9a99-699e356ca721.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127467166-21251341-c2ce-409a-b0be-06e1066fea28.png) 
+    1. [ ] ``
     1. [ ] `[FILL HERE with screen capture of subtask 9]`
     1. [ ] `[FILL HERE with screen capture of subtask 10]`
     1. [ ] `[FILL HERE with screen capture of subtask 11]`
@@ -49,7 +49,7 @@ Student No. of member 2: `97101286`
     1. [ ] `[FILL HERE with screen capture of subtask 13]`
 
 - For subtask 7 write difference between `>` and `>>`
-    - [ ] 1. `[FILL HERE with screen capture of subtask 7]`
+    - [x] 1. ![image](https://user-images.githubusercontent.com/45389577/127467799-4d817184-931f-4441-a8f2-03c12975bd27.png)
 
 ## Section 1.4 
 
