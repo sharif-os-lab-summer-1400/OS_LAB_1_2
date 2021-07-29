@@ -21,15 +21,15 @@ Student No. of member 2: `97101286`
 - [x] Choose one of Virtual Machine Softwares, such as VirtualBox, VMware, ...
     1. [x] `Oracle Virtualbox 6.1`
 - [x] Install Debian on Virtual Machine, add three screenshots from install process
-    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127378438-d7e9c3e7-457e-4bd8-a1f2-6d21b3f74d3a.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127379061-6b92bc5b-8ae8-4fdb-a184-61bafa41f2c3.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127379808-9e52d86e-8813-42d7-a401-a593be4577d8.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127387692-4214eb71-0de3-46d6-a94e-46a2c9e3028d.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127387800-68e8d1a9-0910-4a7d-b4b0-3598dc2d5b28.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45389577/127389186-4e000911-f51c-4587-bca0-2a7f84d41f1d.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45389577/127389380-6150d920-c571-4a5e-a5c7-c070842c3d95.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45389577/127389735-8a682520-fefa-44bf-894b-004d01744c64.png)`
-    1. [x] `![image](https://user-images.githubusercontent.com/45341111/127459948-72ee4186-8c87-4bda-b6cc-dcafa6ea265d.png)`
+    1. [x] ![image](https://user-images.githubusercontent.com/45341111/127378438-d7e9c3e7-457e-4bd8-a1f2-6d21b3f74d3a.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45341111/127379061-6b92bc5b-8ae8-4fdb-a184-61bafa41f2c3.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45341111/127379808-9e52d86e-8813-42d7-a401-a593be4577d8.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45341111/127387692-4214eb71-0de3-46d6-a94e-46a2c9e3028d.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45341111/127387800-68e8d1a9-0910-4a7d-b4b0-3598dc2d5b28.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127389186-4e000911-f51c-4587-bca0-2a7f84d41f1d.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127389380-6150d920-c571-4a5e-a5c7-c070842c3d95.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127389735-8a682520-fefa-44bf-894b-004d01744c64.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45341111/127459948-72ee4186-8c87-4bda-b6cc-dcafa6ea265d.png)
 
 ### Section 1.3.2
 
