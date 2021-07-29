@@ -19,7 +19,9 @@ Student No. of member 2: `97101286`
 
 ### Section 2.3.1
 
-- [ ] `[FILL HERE with image of syscalls table]`
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127536598-15f741b7-6207-433e-9372-8d2453d09932.png)
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127537245-d44b181c-4c68-4b1f-a7ae-e19dba275eab.png)
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127537284-93257f2f-f1bb-49b7-b3a7-2ab82684aebe.png)
 
 ### Section 2.3.2
 - [ ] `[FILL HERE with image of running code (task 3)]`
