@@ -62,9 +62,9 @@ Student No. of member 2: `97101286`
     1. `با این دستور تعداد خطوط، تعداد کلمات و تعداد بایت های یک فایل را میتوانیم  ببینیم.`
     1. `این دستور برای بستن فوری پردازه ها بکار میرود. مثلا میتوانیم یک پردازه را با داشتن آی دی اش، ببندیم. `
 
-- [ ] Write commands for these operations:
+- [x] Write commands for these operations:
     - [x] `wc -L mybook.txt`
-    - [ ] `[FILL HERE with commands for finding files starting with A]`
+    - [x] `find . -name 'A*' | wc -l` 
     - [x] `wc -c mybook.txt`
 
 ### Section 1.4.1
