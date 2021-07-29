@@ -96,8 +96,13 @@ Student No. of member 2: `97101286`
 
 ### Section 1.4.2
 
-- [ ] Compile kernel
-    - [ ] `[FILL HERE with screen capture of compiling kernel]`
+- [x] Compile kernel
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127480298-534687bb-7bd6-4f6d-9660-422b317f45b6.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127479792-b9b2dc41-13da-4e40-b24b-e83577fd1904.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127480585-27a09da7-8867-4624-8c54-8ffd28ef72a0.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127480635-58a737d1-a6d6-46f3-a267-d76201fe9f9e.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127480671-ec423803-1ef8-4662-9f32-d295cf5555e8.png)
+    
 
 - [ ] Install compiled kernel
     - [ ] `[FILL HERE with screen capture of installing compiled kernel]`
