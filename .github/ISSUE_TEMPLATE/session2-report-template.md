@@ -49,8 +49,8 @@ Student No. of member 2: `97101286`
 - [ ] `[FILL HERE with image of second part code]`
 - [ ] `[FILL HERE with image of second part running]`
 
-- [ ] `[FILL HERE with image of third part code]`
-- [ ] `[FILL HERE with image of third part running]`
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127553798-98524c76-ba0a-446a-aeba-a10b3b0afc1f.png)
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127553856-41634138-9afe-4917-be5d-7e15c4362d82.png)
 
 - [ ] `[FILL HERE with image of fourth part code]`
 - [ ] `[FILL HERE with image of fourth part running]`
