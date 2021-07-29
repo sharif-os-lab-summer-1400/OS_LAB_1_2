@@ -43,10 +43,10 @@ Student No. of member 2: `97101286`
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/127467166-21251341-c2ce-409a-b0be-06e1066fea28.png) 
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/127468903-84046906-54c1-4a4c-86d2-d357cc86969c.png)
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/127469651-7cd05d11-cb9e-4c7d-9101-2be864abe93a.png) ![image](https://user-images.githubusercontent.com/45389577/127469741-6787fae9-7f7e-4573-b6ee-bc14f2c798fb.png)
-    1. [ ] `[FILL HERE with screen capture of subtask 10]`
-    1. [ ] `[FILL HERE with screen capture of subtask 11]`
-    1. [ ] `[FILL HERE with screen capture of subtask 12]`
-    1. [ ] `[FILL HERE with screen capture of subtask 13]`
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127470285-309ad119-490a-4ae4-9c76-1772dd15242c.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127470500-b06ed23b-aeed-4340-82f9-14d4e6138793.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127470796-762a9146-33c9-4001-b4e2-219f081b82de.png)
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127471392-a9bad199-c703-4da1-afa2-7fb538674889.png)
 
 - For subtask 7 write difference between `>` and `>>`
     - [x] 1. ![image](https://user-images.githubusercontent.com/45389577/127467799-4d817184-931f-4441-a8f2-03c12975bd27.png)
