@@ -42,8 +42,9 @@ Student No. of member 2: `97101286`
 - [x] ![image](https://user-images.githubusercontent.com/45389577/127548191-a4f01cfd-6e3e-4542-be45-c3118041699e.png)
 
 ### Section 2.3.4
-- [ ] `[FILL HERE with image of first part code]`
-- [ ] `[FILL HERE with image of first part running]`
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127552831-2dda5ec0-5633-4cc7-a4ce-bd179242c302.png)
+- [ ] ![image](https://user-images.githubusercontent.com/45389577/127552914-3df645a9-73a4-4c8e-8c1d-2163012b55a3.png)
+- [ ] در اینجا منظورمان از اکسس این است که کاربر عادی دسترسی خواندن و نوشتن و اجرا را داشته باشد.
 
 - [ ] `[FILL HERE with image of second part code]`
 - [ ] `[FILL HERE with image of second part running]`
