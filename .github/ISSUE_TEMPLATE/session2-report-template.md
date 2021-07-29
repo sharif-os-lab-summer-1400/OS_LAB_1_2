@@ -42,18 +42,18 @@ Student No. of member 2: `97101286`
 - [x] ![image](https://user-images.githubusercontent.com/45389577/127548191-a4f01cfd-6e3e-4542-be45-c3118041699e.png)
 
 ### Section 2.3.4
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127552831-2dda5ec0-5633-4cc7-a4ce-bd179242c302.png)
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127552914-3df645a9-73a4-4c8e-8c1d-2163012b55a3.png)
-- [ ] در اینجا منظورمان از اکسس این است که کاربر عادی دسترسی خواندن و نوشتن و اجرا را داشته باشد.
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127552831-2dda5ec0-5633-4cc7-a4ce-bd179242c302.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127552914-3df645a9-73a4-4c8e-8c1d-2163012b55a3.png)
+- [x] در اینجا منظورمان از اکسس این است که کاربر عادی دسترسی خواندن و نوشتن و اجرا را داشته باشد.
 
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127558494-d7cd1b3c-81d7-4fbc-85cb-9b447564528f.png)
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127558574-15ad48dc-e410-4944-864a-7acbf897c333.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127558494-d7cd1b3c-81d7-4fbc-85cb-9b447564528f.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127558574-15ad48dc-e410-4944-864a-7acbf897c333.png)
 
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127553798-98524c76-ba0a-446a-aeba-a10b3b0afc1f.png)
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127553856-41634138-9afe-4917-be5d-7e15c4362d82.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127553798-98524c76-ba0a-446a-aeba-a10b3b0afc1f.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127553856-41634138-9afe-4917-be5d-7e15c4362d82.png)
 
-- [ ] `[FILL HERE with image of fourth part code]`
-- [ ] `[FILL HERE with image of fourth part running]`
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127560561-27576497-0399-4091-af51-95b3bf5882c8.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127560625-3a4eef43-5285-44b5-b833-0b3bd4a46faa.png)
 
 ### Section 2.3.5
 
