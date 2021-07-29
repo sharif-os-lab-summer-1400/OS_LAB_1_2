@@ -54,8 +54,8 @@ Student No. of member 2: `97101286`
 ## Section 1.4 
 
 - [ ] Write (in English or Persian) about each command:
-    1. `[FILL HERE with description about cut]`
-    1. `[FILL HERE with description about find]`
+    1. `این دستور برای بریدن بخشهای فایل بصورت خط به خط بکار میرود. مثلا میتوان کل ستون دوم یک جدول و یا تمام حروف اول خطوط مختلف را خط به خط چاپ کرد.`
+    1. `با این دستور به دنبال یک فایل در یک دایرکتوری و تمام فولدرهای داخلی آن میگردیم. کافیست بخشی از نام  یا مثلا اطلاعاتی مانند حجم و فرمت و ... از فایل مورد نظر داشته باشیم.`
     1. `[FILL HERE with description about head]`
     1. `[FILL HERE with description about tail]`
     1. `[FILL HERE with description about touch]`
