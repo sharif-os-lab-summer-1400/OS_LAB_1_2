@@ -25,7 +25,7 @@ Student No. of member 2: `97101286`
 
 
 ### Section 2.3.2
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127544542-d15ca902-cc6d-424c-8e3b-732a9a6ca32a.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127544542-d15ca902-cc6d-424c-8e3b-732a9a6ca32a.png)
 
 <div dir="rtl">
 
@@ -38,8 +38,8 @@ Student No. of member 2: `97101286`
 </div>
 
 ### Section 2.3.3
-- [ ] `[FILL HERE with image of testsyscall2.cpp code]`
-- [ ] `[FILL HERE with image of testsyscall2 running]`
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127548160-452814d6-92a4-4d8d-86cb-52a1beae71d7.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127548191-a4f01cfd-6e3e-4542-be45-c3118041699e.png)
 
 ### Section 2.3.4
 - [ ] `[FILL HERE with image of first part code]`
