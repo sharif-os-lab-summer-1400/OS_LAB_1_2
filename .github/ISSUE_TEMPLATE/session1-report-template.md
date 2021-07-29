@@ -104,5 +104,10 @@ Student No. of member 2: `97101286`
     - [x] ![image](https://user-images.githubusercontent.com/45341111/127480671-ec423803-1ef8-4662-9f32-d295cf5555e8.png)
     
 
-- [ ] Install compiled kernel
-    - [ ] `[FILL HERE with screen capture of installing compiled kernel]`
+- [x] Install compiled kernel
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127510898-4e1a6e35-c3d4-4691-8713-dca4cf304850.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127510960-22a2b581-5cb4-45e1-9bdc-2f60c3610e3b.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127511031-a6d229b3-f123-4452-ba8e-981304ab9812.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127511302-eaac6f46-f393-4b2a-9fd4-110fc863e91d.png)
+    - [x] ![image](https://user-images.githubusercontent.com/45341111/127511780-412877c7-1fcd-4ebf-a0d4-6e8ea7156125.png)
+
