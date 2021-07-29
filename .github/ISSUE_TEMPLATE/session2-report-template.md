@@ -15,13 +15,13 @@ Student No. of member 1: `97110285`
 Student Name of member 2: `Alireza Ilami`
 Student No. of member 2: `97101286`
 
-- [ ] Read Session Contents.
+- [x] Read Session Contents.
 
 ### Section 2.3.1
 
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127536598-15f741b7-6207-433e-9372-8d2453d09932.png)
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127537245-d44b181c-4c68-4b1f-a7ae-e19dba275eab.png)
-- [ ] ![image](https://user-images.githubusercontent.com/45389577/127537284-93257f2f-f1bb-49b7-b3a7-2ab82684aebe.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127536598-15f741b7-6207-433e-9372-8d2453d09932.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127537245-d44b181c-4c68-4b1f-a7ae-e19dba275eab.png)
+- [x] ![image](https://user-images.githubusercontent.com/45389577/127537284-93257f2f-f1bb-49b7-b3a7-2ab82684aebe.png)
 
 ### Section 2.3.2
 - [ ] `[FILL HERE with image of running code (task 3)]`
