@@ -41,8 +41,9 @@ Student No. of member 2: `97101286`
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/127466246-00f33c56-575b-4ba3-b3b1-779399d2d9b1.png)
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/127466408-209a93ea-a844-4718-9a99-699e356ca721.png)
     1. [x] ![image](https://user-images.githubusercontent.com/45389577/127467166-21251341-c2ce-409a-b0be-06e1066fea28.png) 
-    1. [ ] ![image](https://user-images.githubusercontent.com/45389577/127468903-84046906-54c1-4a4c-86d2-d357cc86969c.png)
-    1. [ ] `[FILL HERE with screen capture of subtask 9]`
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127468903-84046906-54c1-4a4c-86d2-d357cc86969c.png)
+    1. [x] `![image](https://user-images.githubusercontent.com/45389577/127469651-7cd05d11-cb9e-4c7d-9101-2be864abe93a.png)` `![image](https://user-images.githubusercontent.com/45389577/127469741-6787fae9-7f7e-4573-b6ee-bc14f2c798fb.png)
+`
     1. [ ] `[FILL HERE with screen capture of subtask 10]`
     1. [ ] `[FILL HERE with screen capture of subtask 11]`
     1. [ ] `[FILL HERE with screen capture of subtask 12]`
