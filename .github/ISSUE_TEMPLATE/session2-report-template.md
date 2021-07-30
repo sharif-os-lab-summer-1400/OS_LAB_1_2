@@ -83,5 +83,5 @@ Student No. of member 2: `97101286`
 - [x] ![image](https://user-images.githubusercontent.com/45341111/127654057-61bd2add-6915-4ac6-981b-6b871958419c.png)
 - [x] ![image](https://user-images.githubusercontent.com/45341111/127654410-3e757ac4-7102-4ce4-ae55-fe8f0711930d.png)
 
-- [ ] `[FILL HERE with image of adder code]`
-- [ ] `[FILL HERE with image of adder running]`
+- [x] ![image](https://user-images.githubusercontent.com/45341111/127679939-13eaf85d-de68-48b9-9bbc-42479b15463c.png)
+- [x] ![image](https://user-images.githubusercontent.com/45341111/127680199-851a6aa2-cf1c-4a2f-a933-247ac27d95ee.png)
