@@ -72,9 +72,8 @@ Student No. of member 2: `97101286`
     10. [x] ![image](https://user-images.githubusercontent.com/45389577/127632328-666bfa34-d7ae-4cdc-a939-b85d8a133bbd.png)
     10. [x] ![image](https://user-images.githubusercontent.com/45389577/127632687-2abad3eb-363a-403f-964c-3fd82bf993bc.png)
     11. [x] ![image](https://user-images.githubusercontent.com/45389577/127635943-484fd930-b9c2-4afc-8fcc-d4d2f476fd10.png)
-    12. [ ] `[FILL HERE with screen capture of subtask 11]`
-    13. [ ] ![image](https://user-images.githubusercontent.com/45389577/127636696-bf6d27db-d7d9-4359-a386-3c218783fa33.png)
-    14. [ ] `[FILL HERE with screen capture of subtask 13]`
+    12. [x] ![image](https://user-images.githubusercontent.com/45389577/127636696-bf6d27db-d7d9-4359-a386-3c218783fa33.png)
+    13. [x] ![image](https://user-images.githubusercontent.com/45389577/127637127-5c9ab320-e960-4255-9bac-a89354a5fdb9.png)
 
 - [ ] `[FILL HERE with image of hello based code]`
 - [ ] `[FILL HERE with image of hello based code running]`
