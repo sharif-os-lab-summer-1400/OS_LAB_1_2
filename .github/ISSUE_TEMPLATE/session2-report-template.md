@@ -67,13 +67,13 @@ Student No. of member 2: `97101286`
     6. [x] ![image](https://user-images.githubusercontent.com/45389577/127631045-d09aaf5f-1021-4b1d-89fe-bcc135574d6f.png)
     6. [x] ![image](https://user-images.githubusercontent.com/45389577/127631166-24b1eadb-c37b-4d83-96e4-df89c508a632.png)
     7. [x] ![image](https://user-images.githubusercontent.com/45389577/127631451-0c793fb1-9a84-4d86-8958-9ba21958946a.png)
-    8. [ ] ![image](https://user-images.githubusercontent.com/45389577/127631694-143b081a-48a8-4ba9-9f4b-bdb6540e474c.png)
-    9. [ ] ![image](https://user-images.githubusercontent.com/45389577/127631864-a2e76aab-bee1-47e1-aac8-efeb8cd6a143.png)
-    10. [ ] ![image](https://user-images.githubusercontent.com/45389577/127632328-666bfa34-d7ae-4cdc-a939-b85d8a133bbd.png)
-    10. [ ] ![image](https://user-images.githubusercontent.com/45389577/127632687-2abad3eb-363a-403f-964c-3fd82bf993bc.png)
-    11. 
+    8. [x] ![image](https://user-images.githubusercontent.com/45389577/127631694-143b081a-48a8-4ba9-9f4b-bdb6540e474c.png)
+    9. [x] ![image](https://user-images.githubusercontent.com/45389577/127631864-a2e76aab-bee1-47e1-aac8-efeb8cd6a143.png)
+    10. [x] ![image](https://user-images.githubusercontent.com/45389577/127632328-666bfa34-d7ae-4cdc-a939-b85d8a133bbd.png)
+    10. [x] ![image](https://user-images.githubusercontent.com/45389577/127632687-2abad3eb-363a-403f-964c-3fd82bf993bc.png)
+    11. [x] ![image](https://user-images.githubusercontent.com/45389577/127635943-484fd930-b9c2-4afc-8fcc-d4d2f476fd10.png)
     12. [ ] `[FILL HERE with screen capture of subtask 11]`
-    13. [ ] `[FILL HERE with screen capture of subtask 12]`
+    13. [ ] ![image](https://user-images.githubusercontent.com/45389577/127636696-bf6d27db-d7d9-4359-a386-3c218783fa33.png)
     14. [ ] `[FILL HERE with screen capture of subtask 13]`
 
 - [ ] `[FILL HERE with image of hello based code]`
