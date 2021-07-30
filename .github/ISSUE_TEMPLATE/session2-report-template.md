@@ -58,19 +58,23 @@ Student No. of member 2: `97101286`
 ### Section 2.3.5
 
 - [ ] Do 13 subtasks from 1 to 13 and add screenshots of each:
-    1. [ ] `[FILL HERE with screen capture of subtask 1]`
-    1. [ ] `[FILL HERE with screen capture of subtask 2]`
-    1. [ ] `[FILL HERE with screen capture of subtask 3]`
-    1. [ ] `[FILL HERE with screen capture of subtask 4]`
-    1. [ ] `[FILL HERE with screen capture of subtask 5]`
-    1. [ ] `[FILL HERE with screen capture of subtask 6]`
-    1. [ ] `[FILL HERE with screen capture of subtask 7]`
-    1. [ ] `[FILL HERE with screen capture of subtask 8]`
-    1. [ ] `[FILL HERE with screen capture of subtask 9]`
-    1. [ ] `[FILL HERE with screen capture of subtask 10]`
-    1. [ ] `[FILL HERE with screen capture of subtask 11]`
-    1. [ ] `[FILL HERE with screen capture of subtask 12]`
-    1. [ ] `[FILL HERE with screen capture of subtask 13]`
+    1. [x] ![image](https://user-images.githubusercontent.com/45389577/127630042-b1d6a064-f9a3-46ea-afbc-33a8de6757ec.png)
+    2. [x] ![image](https://user-images.githubusercontent.com/45389577/127630229-820f4316-52c2-4f2d-b2ee-633f8b6b546d.png)
+    3. [x] ![image](https://user-images.githubusercontent.com/45389577/127630395-d4c94489-097a-4c25-b3fa-9339aa33557c.png)
+    4. [x] ![image](https://user-images.githubusercontent.com/45389577/127630583-91deaec4-187b-48b8-8271-6503024bc5b1.png)
+    4. [x] ![image](https://user-images.githubusercontent.com/45389577/127630770-189c3577-cc0a-4b60-9bd4-249f9ff74402.png)
+    5. [x] ![image](https://user-images.githubusercontent.com/45389577/127630846-9b485a36-f9f3-47d5-bfac-5443ea69f48c.png)
+    6. [x] ![image](https://user-images.githubusercontent.com/45389577/127631045-d09aaf5f-1021-4b1d-89fe-bcc135574d6f.png)
+    6. [x] ![image](https://user-images.githubusercontent.com/45389577/127631166-24b1eadb-c37b-4d83-96e4-df89c508a632.png)
+    7. [x] ![image](https://user-images.githubusercontent.com/45389577/127631451-0c793fb1-9a84-4d86-8958-9ba21958946a.png)
+    8. [ ] ![image](https://user-images.githubusercontent.com/45389577/127631694-143b081a-48a8-4ba9-9f4b-bdb6540e474c.png)
+    9. [ ] ![image](https://user-images.githubusercontent.com/45389577/127631864-a2e76aab-bee1-47e1-aac8-efeb8cd6a143.png)
+    10. [ ] ![image](https://user-images.githubusercontent.com/45389577/127632328-666bfa34-d7ae-4cdc-a939-b85d8a133bbd.png)
+    10. [ ] ![image](https://user-images.githubusercontent.com/45389577/127632687-2abad3eb-363a-403f-964c-3fd82bf993bc.png)
+    11. 
+    12. [ ] `[FILL HERE with screen capture of subtask 11]`
+    13. [ ] `[FILL HERE with screen capture of subtask 12]`
+    14. [ ] `[FILL HERE with screen capture of subtask 13]`
 
 - [ ] `[FILL HERE with image of hello based code]`
 - [ ] `[FILL HERE with image of hello based code running]`
