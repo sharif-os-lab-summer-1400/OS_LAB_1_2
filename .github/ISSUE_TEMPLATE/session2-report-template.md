@@ -72,7 +72,7 @@ Student No. of member 2: `97101286`
     12. [x] ![image](https://user-images.githubusercontent.com/45389577/127632328-666bfa34-d7ae-4cdc-a939-b85d8a133bbd.png)
     13. [x] ![image](https://user-images.githubusercontent.com/45389577/127632687-2abad3eb-363a-403f-964c-3fd82bf993bc.png)
     14. [x] ![image](https://user-images.githubusercontent.com/45389577/127635943-484fd930-b9c2-4afc-8fcc-d4d2f476fd10.png)
-    14. [x] ![image](https://user-images.githubusercontent.com/45341111/127649648-970a730f-d9fe-493b-a943-839529cf5b43.png)
+    15. [x] ![image](https://user-images.githubusercontent.com/45341111/127649648-970a730f-d9fe-493b-a943-839529cf5b43.png)
     16. [x] ![image](https://user-images.githubusercontent.com/45389577/127636696-bf6d27db-d7d9-4359-a386-3c218783fa33.png)
     17. [x] ![image](https://user-images.githubusercontent.com/45341111/127653011-5a8280d0-a637-4c00-a499-baafa5e73999.png)
     18. [x] ![image](https://user-images.githubusercontent.com/45341111/127639864-f7a287c9-a796-4404-961d-1cae8eec5a6d.png)
